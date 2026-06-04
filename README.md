@@ -148,7 +148,7 @@ We'd love your help adding rules! Check out:
 
 - **[CONTRIBUTING.md](./CONTRIBUTING.md)** - Step-by-step guide to adding rules
 - **[START-HERE.md](./START-HERE.md)** - 5-minute integration guide for improvements
-- **[Good First Issues](https://github.com/yourusername/tired-error-explainer/labels/good%20first%20issue)**
+- **[Good First Issues](https://github.com/Q7xB12/tired-error-explainer/labels/good%20first%20issue)**
 
 ### Quick Contribution Guide
 
