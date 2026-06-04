@@ -1,0 +1,24 @@
+{
+  "name": "tired-error-explainer",
+  "version": "0.1.0",
+  "description": "A rule-based CLI that turns ugly developer errors into practical explanations.",
+  "type": "module",
+  "bin": {
+    "tired-error": "./bin/tired-error.js"
+  },
+  "scripts": {
+    "start": "node ./bin/tired-error.js",
+    "test": "node ./test/run-tests.js"
+  },
+  "keywords": [
+    "errors",
+    "debugging",
+    "cli",
+    "developer-tools"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
