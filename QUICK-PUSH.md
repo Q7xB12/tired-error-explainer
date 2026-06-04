@@ -41,7 +41,7 @@ git commit -m "feat: initial commit with comprehensive improvements
 
 ```bash
 # Add your GitHub repository (replace YOURUSERNAME)
-git remote add origin https://github.com/YOURUSERNAME/tired-error-explainer.git
+git remote add origin https://github.com/Q7xB12/tired-error-explainer.git
 
 # Push to GitHub
 git push -u origin main
